@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "homepage": "https://kukshalkanishka.github.io/tic-tac-toe-react",
+    "homepage": "https://kukshalkanishka.github.io/tic-tac-toe-react/",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
